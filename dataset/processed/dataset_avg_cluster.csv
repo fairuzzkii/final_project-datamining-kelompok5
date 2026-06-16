@@ -1,0 +1,35 @@
+provinsi,persen_miskin,prevalensi_stunting,persen_sanitasi,cluster,cluster_label
+ACEH,14.66,30.6,78.74,0,Risiko Tinggi
+BALI,4.34,8.68,96.1,2,Risiko Rendah
+BANTEN,6.21,22.4,85.59,1,Risiko Menengah
+BENGKULU,14.36,20.23,80.67,1,Risiko Menengah
+DI YOGYAKARTA,11.5,17.27,96.62,2,Risiko Rendah
+DKI JAKARTA,4.54,16.6,93.87,2,Risiko Rendah
+GORONTALO,15.19,25.9,80.78,0,Risiko Tinggi
+JAMBI,7.6,17.75,81.73,1,Risiko Menengah
+JAWA BARAT,7.88,20.58,73.91,1,Risiko Menengah
+JAWA TENGAH,10.99,19.85,84.89,1,Risiko Menengah
+JAWA TIMUR,10.48,18.77,82.84,1,Risiko Menengah
+KALIMANTAN BARAT,6.73,27.22,79.31,1,Risiko Menengah
+KALIMANTAN SELATAN,4.43,25.55,82.64,1,Risiko Menengah
+KALIMANTAN TENGAH,5.18,24.98,75.64,1,Risiko Menengah
+KALIMANTAN TIMUR,6.18,22.98,90.74,1,Risiko Menengah
+KALIMANTAN UTARA,6.72,21.15,82.85,1,Risiko Menengah
+KEPULAUAN BANGKA BELITUNG,4.61,19.45,92.81,2,Risiko Rendah
+KEPULAUAN RIAU,5.86,16.2,90.42,2,Risiko Rendah
+LAMPUNG,11.5,16.12,84.39,1,Risiko Menengah
+MALUKU,16.58,27.88,77.98,0,Risiko Tinggi
+MALUKU UTARA,6.48,25.12,79.86,1,Risiko Menengah
+NUSA TENGGARA BARAT,13.64,29.62,84.47,0,Risiko Tinggi
+NUSA TENGGARA TIMUR,20.12,28.17,75.1,0,Risiko Tinggi
+PAPUA,24.18,29.35,51.18,0,Risiko Tinggi
+PAPUA BARAT,21.33,26.42,76.68,0,Risiko Tinggi
+RIAU,6.81,18.25,84.65,1,Risiko Menengah
+SULAWESI BARAT,11.44,33.62,80.56,0,Risiko Tinggi
+SULAWESI SELATAN,8.54,26.3,92.83,1,Risiko Menengah
+SULAWESI TENGAH,12.38,27.8,76.07,0,Risiko Tinggi
+SULAWESI TENGGARA,11.37,28.5,88.08,1,Risiko Menengah
+SULAWESI UTARA,7.42,21.05,85.53,1,Risiko Menengah
+SUMATERA BARAT,6.12,24.25,70.44,1,Risiko Menengah
+SUMATERA SELATAN,11.87,19.88,79.7,1,Risiko Menengah
+SUMATERA UTARA,8.39,21.95,83.56,1,Risiko Menengah
