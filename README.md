@@ -1,4 +1,4 @@
-# 📊 Analisis Pengaruh Kemiskinan dan Sanitasi terhadap Prevalensi Stunting di Indonesia
+# 📊 Analisis Pengaruh Kemiskinan dan Sanitasi terhadap Prevalensi Stunting di Indonesia Menggunakan Regresi Linear dan K-Means Clustering 
 
 Aplikasi ini merupakan bagian dari tahapan **CRISP-DM Fase 6: Deployment** yang diwujudkan dalam bentuk **Streamlit Interactive Dashboard**. Aplikasi ini memodelkan dan memetakan hubungan antara tingkat ekonomi (kemiskinan) dan infrastruktur lingkungan (sanitasi layak) terhadap kejadian stunting di 34 provinsi di Indonesia (2021-2024).
 
