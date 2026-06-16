@@ -1,0 +1,12 @@
+# Python & Streamlit cache
+__pycache__/
+*.pyc
+.streamlit/
+.ipynb_checkpoints/
+.DS_Store
+
+# Generated datasets and models (CRISP-DM outputs)
+dataset/processed/dataset_avg_cluster.csv
+dataset/processed/dataset_final_kemiskinan_stunting.csv
+models/model_kmeans_stunting.pkl
+models/model_regresi_stunting.pkl
